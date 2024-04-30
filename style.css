@@ -1,0 +1,35 @@
+.bg-container{
+    background-color: white;
+    
+}
+.card{
+    background-color: rgba(26, 207, 116, 0.801);
+    height: 450px;
+    width: 500px;
+    border-radius: 20px;
+    margin: 100px auto;
+    padding: 40px;
+    
+    
+    
+}
+.bussiness-heading{
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 40px;
+
+}
+p{
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn{
+    padding: 12px 27px;
+    border-radius: 24px;
+    border: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #fff;
+}
